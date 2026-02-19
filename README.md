@@ -1,0 +1,1 @@
+# phpkansai-20260226-api-platform-demo
